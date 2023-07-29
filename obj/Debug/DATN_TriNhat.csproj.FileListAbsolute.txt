@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\bin\Debug\DATN_TriNhat.exe.config
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\bin\Debug\DATN_TriNhat.exe
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\bin\Debug\DATN_TriNhat.pdb
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\obj\Debug\DATN_TriNhat.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\obj\Debug\DATN_TriNhat.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\obj\Debug\DATN_TriNhat.Form1.resources
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\obj\Debug\DATN_TriNhat.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\obj\Debug\DATN_TriNhat.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\obj\Debug\DATN_TriNhat.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\obj\Debug\DATN_TriNhat.exe
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\obj\Debug\DATN_TriNhat.pdb
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\bin\Debug\S7.Net.xml
+C:\Users\DELL\Documents\GitHub\DATN_TRINHAT\DATN_TriNhat\obj\Debug\DATN_TriNhat.csproj.CopyComplete

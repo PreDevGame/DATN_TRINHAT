@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DATN_TriNhat"
+    "\\DATN_TriNhat",
+    "\\DATN_TriNhat\\bin",
+    "\\DATN_TriNhat\\bin\\Debug"
   ],
-  "SelectedNode": "\\DATN_TriNhat\\Form1.cs",
+  "SelectedNode": "\\DATN_TriNhat\\Form1.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
